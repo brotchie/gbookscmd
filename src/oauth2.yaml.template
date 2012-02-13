@@ -1,0 +1,3 @@
+oauth2credentials:
+    client_id: *clientid*.apps.googleusercontent.com
+    client_secret: *client secret*
